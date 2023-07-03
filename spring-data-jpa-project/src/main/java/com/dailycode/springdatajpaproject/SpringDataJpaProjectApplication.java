@@ -1,13 +1,13 @@
-package com.springdatajpa.springdatajpa;
+package com.dailycode.springdatajpaproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDataJpaApplication {
+public class SpringDataJpaProjectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDataJpaApplication.class, args);
+		SpringApplication.run(SpringDataJpaProjectApplication.class, args);
 	}
 
 }
